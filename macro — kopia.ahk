@@ -8,7 +8,7 @@
 
 FileEncoding , UTF-8
 SendMode Input
-SetTitleMatchMode, 3
+SetTitleMatchMode, 3ddasdasdasd
 macroVersion := 131
 
 If (A_AhkVersion <= "1.1.23")
